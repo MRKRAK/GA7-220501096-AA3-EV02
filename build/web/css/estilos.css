@@ -1,0 +1,34 @@
+/* css/estilos.css */
+.btn-outline-info {
+    color: #000; /* Color del texto */
+    background-color: #fff; /* Color de fondo */
+    border-color: #fff; /* Color del borde */
+}
+
+.btn-outline-info:hover {
+    color: #fff; /* Color del texto en hover */
+    background-color: #17a2b8; /* Color de fondo en hover */
+    border-color: #17a2b8; /* Color del borde en hover */
+}
+
+
+
+
+img{
+    transition:transform 1s;
+}
+img:hover{
+    transform : scale(1.5);
+}
+.btn-danger{
+    margin-left: 15px;
+    transition: transform 0.5s;
+}
+.btn2{    
+    transition: transform 0.5s;
+}
+.btn:hover{
+    transform: scale(1.2);
+}
+
+
